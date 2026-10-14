@@ -1,0 +1,16 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# YOLO datasets and generated artifacts
+dataset/
+yolo_dataset/
+runs/
+*.pt
+
+# IDE files
+.idea/
+.vscode/
